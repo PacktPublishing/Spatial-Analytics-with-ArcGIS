@@ -1,0 +1,3 @@
+The code bundle contains the Map documents with MXD file extension for all the chapters in the book. MXD is a file extension for a map document used by ArcMap. ArcMap is a component of ArcGIS, a GIS (geographic information system) software suite used in the book. GIS enables you to envision the geographic aspects of a body of data.
+
+For running the scripts, Create a web map within a portal for ArcGIS from an MXD (map document). This requires an account that can authenticate with ArcGIS.com or a local portal to publish services and create the web map.
