@@ -1,7 +1,7 @@
 # Spatial Analytics with ArcGIS
 This is the code repository for [Spatial Analytics with ArcGIS](https://www.packtpub.com/application-development/spatial-analytics-arcgis?utm_source=github&utm_medium=repository&utm_campaign=9781787122581), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
-Go to Mapt
+Spatial statistics has the potential to provide insight that is not otherwise available through traditional GIS tools. This book is designed to introduce you to the use of spatial statistics so you can solve complex geographic analysis.
 ## Instructions and Navigation
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
 
